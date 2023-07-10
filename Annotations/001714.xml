@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1501-2000</folder>
+	<filename>001714.jpg</filename>
+	<path>D:\其它\组\任务布置\20221005雷达船舶标记\1501-2000\001714.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>510</xmin>
+			<ymin>429</ymin>
+			<xmax>523</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>radar3000</folder>
+	<filename>000142.jpg</filename>
+	<path>D:\BaiduNetdiskDownload\radar3000\000142.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>46</ymin>
+			<xmax>330</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

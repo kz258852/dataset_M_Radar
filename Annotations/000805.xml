@@ -1,0 +1,26 @@
+<annotation>
+	<folder>radar3000</folder>
+	<filename>000805.jpg</filename>
+	<path>D:\Users\17718\Desktop\radar3000\000805.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>88</ymin>
+			<xmax>375</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>
